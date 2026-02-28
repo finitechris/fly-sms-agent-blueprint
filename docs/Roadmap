@@ -1,0 +1,16 @@
+# Roadmap
+
+Phase 1 – Concept Definition
+- README
+- Ethics framework
+- Architectural model
+
+Phase 2 – Prototype
+- SMS gateway integration
+- Message ingestion pipeline
+- LLM routing
+
+Phase 3 – Governance Layer
+- Configurable intervention sensitivity
+- Thread health scoring
+- Analytics dashboard
