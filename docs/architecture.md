@@ -1,5 +1,8 @@
 # FLY Architecture
 
+
+![FLY Architecture Diagram](../diagrams/fly-architecture.png)
+
 ## Overview
 
 FLY operates as an embedded conversational agent inside group messaging threads. It functions as a quiet cognitive layer that observes conversation flow, analyzes tone and structure, and selectively contributes when doing so improves clarity, emotional intelligence, or alignment.
