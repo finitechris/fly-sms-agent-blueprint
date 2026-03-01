@@ -9,7 +9,25 @@ It does not dominate conversations.
 It does not replace participants.  
 It observes, processes, and selectively contributes in ways that elevate clarity, emotional intelligence, and cultural stability.
 
-FLY is built for the Distributed Intelligence Era — where human communication can be augmented without being overridden.
+## FLY — A Cultural Immune System for Human Communication
+
+FLY was not born from theory. It was born from lived fracture.
+
+My work has consistently existed at the intersection of human potential and broken systems — recovery rooms, board rooms, classrooms, startup war rooms, justice-impacted education environments, and executive group threads where ego quietly outpaces clarity. I have seen firsthand how intelligent, capable people can become destabilized by misaligned incentives, speed without reflection, and identity without grounding. I have also seen how simple cognitive tools — the kind embedded in CBT, emotional regulation, structured reflection, and shared accountability — can radically transform outcomes when applied at the right moment.
+
+We are living in a time where communication infrastructure has outpaced communication maturity. Platforms amplify reaction. Leaders posture instead of listen. Massive egos — sometimes institutional, sometimes personal — steer decisions in fragile systems already straining under complexity. The result is fragmentation disguised as progress.
+
+FLY intervenes at the smallest viable unit of societal breakdown: the live conversation.
+
+Embedded directly into SMS or group messaging threads, FLY acts as a reflective cognitive layer inside the exchange itself. It does not dominate. It does not moralize. It does not replace human agency. Instead, it quietly surfaces distortions, clarifies assumptions, identifies emotional escalations, and reframes reactive dialogue into coherent signal. It introduces distributed intelligence at the precise point where misunderstanding begins.
+
+This project is informed by decades of lived experience with recovery principles, human systems design, entrepreneurial pressure, AI architecture, and the study of how fragile egos destabilize otherwise capable institutions. It is not dystopian technology. It is not surveillance. It is not automation for its own sake. It is a stabilizing force — a cultural immune system designed to strengthen discourse from within.
+
+If scaled responsibly, FLY has the potential to redirect the trajectory of human communication. From spectacle toward signal. From dominance toward dialogue. From fragmentation toward coordinated awareness. In an era defined by amplification without wisdom, FLY offers something rare: a reflective pause built directly into the conversation itself.
+
+The goal is simple, though the implications are not.
+
+Upgrade the quality of how we speak to one another — and you upgrade the systems built on top of those conversations.
 
 ---
 
@@ -262,7 +280,7 @@ Node implementation: In progress
 
 ## FLY Responsible Use License (v1.0)
 
-Copyright (c) 2026 Guy Thompson
+Copyright (c) 2026 Christopher Guy Thompson
 
 Permission is granted to view, study, fork, and modify this software for personal, educational, and research purposes, subject to the conditions below.
 
