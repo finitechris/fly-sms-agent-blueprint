@@ -1,15 +1,23 @@
 from fastapi import FastAPI, Request
 import uvicorn
+from agent import analyze_message
 
 app = FastAPI()
 
 @app.post("/message")
 async def receive_message(request: Request):
     data = await request.json()
-    print("Incoming message:", data)
+    message_text = data.get("message", "")
 
-    # Placeholder response
-    return {"status": "received", "action": "silent"}
+    result = analyze_message(message_text)
+
+    if result["action"] == "silent":
+        return {"status": "silent"}
+
+    return {
+        "status": "respond",
+        "response": result["response"]
+    }
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
