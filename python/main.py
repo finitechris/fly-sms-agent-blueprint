@@ -18,6 +18,16 @@ async def receive_message(request: Request):
         "status": "respond",
         "response": result["response"]
     }
+@app.get("/test")
+def test_message(message: str):
+    result = analyze_message(message)
 
+    if result["action"] == "silent":
+        return {"status": "silent"}
+
+    return {
+        "status": "respond",
+        "response": result["response"]
+    }
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
