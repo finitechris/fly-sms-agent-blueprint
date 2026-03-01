@@ -172,8 +172,95 @@ FLY is experimental. Contributions focused on architecture, governance, ethical 
 
 ---
 
-## License
-# FLY Responsible Use License (v1.0)
+# FLY — Fly On The Wall
+
+FLY is an embedded AI agent designed to sit inside messaging threads and offer calm, emotionally intelligent reframes when conversations escalate.
+
+It is an experiment in distributed conversational intelligence — augmenting human communication without replacing it.
+
+This repository contains multiple implementations of FLY.
+
+------------------------------------------------------------
+
+# Choose Your Implementation
+
+This repo supports multiple runtime environments.
+
+Select the version you want to run:
+
+### 🐍 Python Version (Available Now)
+
+Minimal FastAPI server  
+Runs locally  
+Demo mode + OpenAI upgrade path  
+
+➡ Go here:
+
+/python/README.md
+
+------------------------------------------------------------
+
+### 🟢 Node.js Version (Coming Next)
+
+Express server  
+TypeScript-based implementation  
+Same logic, different runtime  
+
+➡ Will live in:
+
+/node/README.md
+
+------------------------------------------------------------
+
+# What FLY Does
+
+- Detects escalation
+- Identifies absolute language
+- Gently reframes cognitive distortion
+- Remains silent when no intervention is needed
+- Safely falls back if AI is unavailable
+
+------------------------------------------------------------
+
+# Architecture Philosophy
+
+FLY follows these principles:
+
+- Silence is the default
+- Human authority remains primary
+- Transparent AI presence
+- Safe fallback behavior
+- Public-safe environment configuration
+
+------------------------------------------------------------
+
+# Repository Structure
+
+```
+fly-sms-agent-blueprint/
+│
+├── README.md
+├── .gitignore
+├── docs/
+├── prototype/
+├── python/
+└── node/
+```
+
+------------------------------------------------------------
+
+# Project Status
+
+Python implementation: Working  
+Demo mode: Working  
+AI upgrade path: Working  
+Node implementation: In progress  
+
+------------------------------------------------------------
+
+# License
+
+## FLY Responsible Use License (v1.0)
 
 Copyright (c) 2026 Guy Thompson
 
@@ -236,4 +323,4 @@ If the use of this software materially violates the principles of human agency, 
 
 ---
 
-FLY is an experiment in augmenting human communication responsibly within the Distributed Intelligence Era
+FLY is an experiment in augmenting human communication responsibly within the Distributed Intelligence Era.
